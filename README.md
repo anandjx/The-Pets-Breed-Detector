@@ -8,3 +8,5 @@ To improve the model performance to the best extent possible, we then use Transf
 This way for the given task it will be shown how much the transition from a simple CNN to transfer learning and from there to more complex EfficientNet B2 model may improve both accuracy and the models ability to generalize.
 
 Further We will use Gradio demo to deploy this model for a web browser.
+
+![6947bdc6-9661-4f3d-aea9-82269f1c2993](https://github.com/user-attachments/assets/77796ae9-a201-408b-8816-606c0fa3a214)
